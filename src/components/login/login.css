@@ -53,6 +53,11 @@
                 color: white;
                 border-radius: 5px;
                 cursor: pointer;
+
+                &:disabled{
+                    cursor: not-allowed;
+                    background-color: #1f8ff19c;
+                }
             }
         }
     }
