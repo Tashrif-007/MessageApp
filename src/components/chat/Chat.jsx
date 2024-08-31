@@ -70,7 +70,7 @@ const Chat = () => {
         <div className="message">
           <img src="./avatar.png" alt="" />
           <div className="texts">
-            <img src="" alt="" />
+            <img src="https://picsum.photos/200" alt="" />
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis doloremque, maiores animi ipsa expedita aliquam hic deleniti vel veniam recusandae blanditiis cumque suscipit ullam dicta nesciunt nemo modi. Rem, debitis!
             </p>
