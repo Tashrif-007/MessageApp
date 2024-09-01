@@ -10,8 +10,8 @@
     left: 0;
     right: 0;
     margin: auto;
-    opacity: 0;
-    animation: appear 0.5s ease-in-out forwards;
+    /* opacity: 0;
+    animation: appear 0.5s ease-in-out forwards; */
 
     form{
         display: flex;
